@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\bin\Debug\net6.0\prohect_1.exe
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\bin\Debug\net6.0\prohect_1.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\bin\Debug\net6.0\prohect_1.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\bin\Debug\net6.0\prohect_1.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\bin\Debug\net6.0\prohect_1.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\refint\prohect_1.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\prohect_1.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GB_C#\Seminars\seminar_3\prohect_1\obj\Debug\net6.0\ref\prohect_1.dll

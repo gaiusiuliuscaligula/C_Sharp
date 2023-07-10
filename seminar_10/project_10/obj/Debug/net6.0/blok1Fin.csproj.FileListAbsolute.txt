@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\bin\Debug\net6.0\blok1Fin.exe
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\bin\Debug\net6.0\blok1Fin.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\bin\Debug\net6.0\blok1Fin.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\bin\Debug\net6.0\blok1Fin.dll
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\bin\Debug\net6.0\blok1Fin.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.dll
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\refint\blok1Fin.dll
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\blok1Fin.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\blok1Fin\blok1Fin\obj\Debug\net6.0\ref\blok1Fin.dll
